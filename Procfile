@@ -1,1 +1,1 @@
-web: gunicorn ref.wsgi
+web: gunicorn kendraGroup.wsgi
